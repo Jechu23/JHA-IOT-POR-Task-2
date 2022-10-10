@@ -1,2 +1,7 @@
 Hello world!
 How are you?
+
+- git add <name file> or
+	git add . // update all files 
+- git commin -m "massage"
+- git push / update to page 
