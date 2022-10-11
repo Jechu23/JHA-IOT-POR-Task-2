@@ -4,4 +4,14 @@ How are you?
 - git add <name file> or
 	git add . // update all files 
 - git commin -m "massage"
-- git push / update to page 
+- git push / update to page
+-
+sign up / Logout
+- git status
+- git config --global user.mail oswajha@gmail.com
+- git config --global user.name Jechu23
+
+git commint -m "message"
+git branch -M main
+git status
+git push -u origin main
